@@ -1,8 +1,7 @@
 go through a set of test images with GROUND TRUTH LABELS and calculate
 the mAP (mean average precision) to see how well the edge TPU is doing 
 
-- creates a csv of annotations, then use eyal and jenya's script
-
+- creates a csv of annotations, 
 1. where are the output images?
      - on the edge TPU
      - /mnt/validation_images_final_paper_waymo_construction/waymo_construction
